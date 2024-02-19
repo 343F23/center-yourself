@@ -9,4 +9,4 @@
 
 ## Center an elem vertically
 1. Duplicate the directory containing your code for the previous part (we'd like to keep it as a reference/example)
-1. update the style rules to also center the img vertically (you may use flexbox forthis part)
+1. update the style rules to also center the img vertically (you may use flexbox for this part)
